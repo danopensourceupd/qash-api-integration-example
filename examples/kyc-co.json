@@ -1,0 +1,15 @@
+{
+  "firstName": "Ana",
+  "lastName": "Prueba",
+  "birthDate": "1990-05-15",
+  "gender": "female",
+  "governmentIdCountry": "CO",
+  "governmentIdNumber": "1000000001",
+  "addressLine1": "Calle 100 # 15-20",
+  "city": "Bogotá",
+  "stateProvince": "Bogotá D.C.",
+  "postalCode": "110111",
+  "addressCountry": "CO",
+  "email": "replace-with-the-registered-email@example.com",
+  "phone": "+573000000000"
+}

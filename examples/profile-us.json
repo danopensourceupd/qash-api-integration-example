@@ -1,0 +1,23 @@
+{
+  "firstName": "Sam",
+  "lastName": "Tester",
+  "dateOfBirth": "1985-09-30",
+  "nationality": "US",
+  "gender": "male",
+  "governmentIdType": "passport",
+  "governmentIdNumber": "X0000001",
+  "governmentIdCountry": "US",
+  "addressLine1": "100 Main St",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "postalCode": "73301",
+  "addressCountry": "US",
+  "usCitizen": true,
+  "occupation": "SELFEMP",
+  "isPep": false,
+  "isSanctioned": false,
+  "acceptedTerms": true,
+  "annualSalary": "40000",
+  "accountPurpose": "personal_savings",
+  "expectedMonthlyVolume": "1000"
+}

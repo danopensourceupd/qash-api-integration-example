@@ -1,0 +1,9 @@
+{
+  "assetLimits": {
+    "USDC": {
+      "perTransaction": "10",
+      "daily": "50",
+      "monthly": "200"
+    }
+  }
+}

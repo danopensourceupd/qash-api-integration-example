@@ -1,0 +1,15 @@
+{
+  "firstName": "Luis",
+  "lastName": "Prueba",
+  "birthDate": "1988-02-10",
+  "gender": "male",
+  "governmentIdCountry": "VE",
+  "governmentIdNumber": "V12345678",
+  "addressLine1": "Av. Libertador 100",
+  "city": "Caracas",
+  "stateProvince": "Distrito Capital",
+  "postalCode": "1010",
+  "addressCountry": "VE",
+  "email": "replace-with-the-registered-email@example.com",
+  "phone": "+584120000000"
+}

@@ -1,0 +1,23 @@
+{
+  "firstName": "Ana",
+  "lastName": "Prueba",
+  "dateOfBirth": "1990-05-15",
+  "nationality": "CO",
+  "gender": "female",
+  "governmentIdType": "national_id",
+  "governmentIdNumber": "1000000001",
+  "governmentIdCountry": "CO",
+  "addressLine1": "Calle 100 # 15-20",
+  "city": "Bogotá",
+  "stateProvince": "Bogotá D.C.",
+  "postalCode": "110111",
+  "addressCountry": "CO",
+  "usCitizen": false,
+  "occupation": "15-1252",
+  "isPep": false,
+  "isSanctioned": false,
+  "acceptedTerms": true,
+  "annualSalary": "40000",
+  "accountPurpose": "personal_savings",
+  "expectedMonthlyVolume": "1000"
+}

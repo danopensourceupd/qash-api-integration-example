@@ -1,0 +1,15 @@
+{
+  "firstName": "Sam",
+  "lastName": "Tester",
+  "birthDate": "1985-09-30",
+  "gender": "male",
+  "governmentIdCountry": "US",
+  "governmentIdNumber": "X0000001",
+  "addressLine1": "100 Main St",
+  "city": "Austin",
+  "stateProvince": "TX",
+  "postalCode": "73301",
+  "addressCountry": "US",
+  "email": "replace-with-the-registered-email@example.com",
+  "phone": "+15125550100"
+}

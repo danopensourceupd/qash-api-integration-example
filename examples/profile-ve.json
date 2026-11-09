@@ -1,0 +1,23 @@
+{
+  "firstName": "Luis",
+  "lastName": "Prueba",
+  "dateOfBirth": "1988-02-10",
+  "nationality": "VE",
+  "gender": "male",
+  "governmentIdType": "national_id",
+  "governmentIdNumber": "V12345678",
+  "governmentIdCountry": "VE",
+  "addressLine1": "Av. Libertador 100",
+  "city": "Caracas",
+  "stateProvince": "Distrito Capital",
+  "postalCode": "1010",
+  "addressCountry": "VE",
+  "usCitizen": false,
+  "occupation": "STUDENT",
+  "isPep": false,
+  "isSanctioned": false,
+  "acceptedTerms": true,
+  "annualSalary": "40000",
+  "accountPurpose": "personal_savings",
+  "expectedMonthlyVolume": "1000"
+}

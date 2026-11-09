@@ -1,0 +1,9 @@
+{
+  "name": "example-approval-hook",
+  "url": "https://hooks.example.com/qash/approvals",
+  "allowedAccountIds": [
+    "123"
+  ],
+  "timeoutMs": 5000,
+  "maxAttempts": 3
+}
